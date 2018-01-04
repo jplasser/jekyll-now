@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Jürgen R. Plasser
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+tbd
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[juergen@plasser.net](mailto:juergen@plasser.net)
